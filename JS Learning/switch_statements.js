@@ -2,7 +2,6 @@
 
 function caseInSwitch(val) {
     var answer = "";
-    // Only change code below this line
     switch(val){
         case 1:
             answer = "alpha";
@@ -18,8 +17,7 @@ function caseInSwitch(val) {
             break;
 
     }
-    // Only change code above this line
+
     return answer;
 }
-
 console.log(caseInSwitch(3));

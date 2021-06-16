@@ -1,6 +1,7 @@
 // changes variable to low, mid or high based on "val" value
 function sequentialSizes(val) {
     var answer = "";
+    // Only change code below this line
     switch(val){
 
         case 1:
